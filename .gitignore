@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+
+# data files the script downloads on first run
+de421.bsp
+hip_main.dat
+iss.tle
+modern_skyculture.json
+
+# secrets, in case you ever revisit the aircraft feature
+credentials.json
